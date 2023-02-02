@@ -1,2 +1,3 @@
 # Analysis-of-Champo-carpet
 Analysis-of-Champo-carpet dataset with various ML models.
+This is a recommendation system aimed at boosting conversion rates by using an unsupervised machine learning model. The model categorizes customers into groups based on factors such as country, preferences, and purchase history. By analyzing these clusters, the system can identify key customer segments and recommend products that are likely to lead to increased sales. The system uses the Champo-Carpet dataset and employs k-means clustering to identify all the different clusters. The random forest model has been chosen for its high accuracy. The system will be launched online and promoted to third-party platforms to increase its reach and gather insights from a wider customer base.
